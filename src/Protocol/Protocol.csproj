@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="K4os.Compression.LZ4" Version="1.2.16" />
+    <PackageReference Include="Sewer56.BitStream" Version="1.2.0" />
+    <PackageReference Include="System.IO.Pipelines" Version="6.0.2" />
+  </ItemGroup>
+
+</Project>

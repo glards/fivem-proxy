@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FPMain": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:1046;http://localhost:1047"
+    }
+  }
+}
